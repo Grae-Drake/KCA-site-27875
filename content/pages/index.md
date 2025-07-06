@@ -153,7 +153,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/san_juan_county_seal.jpg
           altText: Placeholder text
           elementId: ''
           styles:
