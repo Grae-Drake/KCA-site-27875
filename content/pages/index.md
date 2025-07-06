@@ -40,8 +40,8 @@ sections:
 
       Thriving, creative communities like Tacoma, King County, Olympia, San Juan
       County and Vancouver have used these tools to successfully remove barriers
-      and increase access to public programs by local cultural organizations.
-      Kitsap County can join their ranks.
+      and increase access to local public programs. Kitsap County can join their
+      ranks.
     actions:
       - label: Get involved
         altText: ''
