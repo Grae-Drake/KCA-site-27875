@@ -181,7 +181,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/vancouver_logo.png
+          url: /images/city_of_vancouver_washington_logo.jpeg
           altText: Placeholder text
           elementId: ''
           styles:
