@@ -787,7 +787,7 @@ sections:
           type: EmailFormControl
         - type: SelectFormControl
           name: I'm interested in
-          label: Company size
+          label: I'm interested in
           hideLabel: false
           defaultValue: Please choose...
           options: []
