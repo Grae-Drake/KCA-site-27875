@@ -790,7 +790,8 @@ sections:
           label: I'm interested in
           hideLabel: false
           defaultValue: ''
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
         - name: message
