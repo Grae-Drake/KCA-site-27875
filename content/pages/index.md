@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Our Shared Culture
+      text: Access our culture
       color: text-dark
       type: TitleBlock
     subtitle: Kitsap youth deserve cultural access
