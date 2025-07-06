@@ -792,9 +792,8 @@ sections:
           defaultValue: Please choose...
           options:
             - Learning more
-            - Advocating for cultural access
-            - Joining KCA
-            - Serving on the program committee
+            - ''
+            - ''
           isRequired: false
           width: full
         - name: message
