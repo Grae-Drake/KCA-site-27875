@@ -75,7 +75,7 @@
         {
             "type": "Link",
             "label": "Next Steps",
-            "altText": "",
+            "altText": "Next Steps",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
