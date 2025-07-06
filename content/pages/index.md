@@ -128,7 +128,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/doors_open_logo.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
