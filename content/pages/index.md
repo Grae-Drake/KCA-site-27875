@@ -791,7 +791,6 @@ sections:
           hideLabel: false
           defaultValue: Learning more
           options:
-            - Learning more
             - Advocating for cultural access
             - Joining KCA
             - Serving on the program committee
