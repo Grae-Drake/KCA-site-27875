@@ -92,7 +92,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/tacoma_creates_logo.avif
+          url: /images/tacoma_creates_logo.jpg
           styles:
             self:
               borderRadius: x-large
