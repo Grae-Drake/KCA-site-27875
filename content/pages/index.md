@@ -437,7 +437,7 @@ sections:
     items:
       - title: “A quote from a PA leader.”
         tagline: Performing Arts
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'First Last, Organization'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
