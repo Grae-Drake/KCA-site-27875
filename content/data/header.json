@@ -64,7 +64,7 @@
         {
             "type": "Link",
             "label": "Framework",
-            "altText": "",
+            "altText": "Framework",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
