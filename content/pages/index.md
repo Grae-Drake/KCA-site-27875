@@ -24,7 +24,7 @@ sections:
       for youth
 
 
-      *   Improve livability measures in Kitsap County like 
+      *   Improve livability measures in Kitsap County like...
 
 
       *   Improve economy....
