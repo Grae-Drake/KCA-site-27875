@@ -96,7 +96,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Olympia
+      - title: Inspire Olympia
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
