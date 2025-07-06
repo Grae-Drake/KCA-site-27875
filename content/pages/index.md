@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Our Kitsap culture
+      text: Kitsap Cultural Access
       color: text-dark
       type: TitleBlock
     subtitle: Kitsap youth deserve cultural access
