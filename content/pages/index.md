@@ -63,7 +63,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Communities across Washington support cultural access
+    subtitle: Thriving communities across Washington support cultural access
     items:
       - type: FeaturedItem
         title: Tacoma Creates
