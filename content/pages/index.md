@@ -7,7 +7,7 @@ sections:
       text: Our Shared Culture
       color: text-dark
       type: TitleBlock
-    subtitle: '[Subtitle]'
+    subtitle: Kitsap youth deserve cultural access
     text: >+
       Kitsap Cultural Access is a community initiative to increase access to
       arts, culture, heritage, and science across Kitsap County, particularly
