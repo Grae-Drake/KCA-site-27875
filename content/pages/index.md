@@ -757,11 +757,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      There are several ways you can help. You can:
+
+      *   Raise awareness of this issue
+
+      *   Advocate for increased access
+
+      *   Join KCA as an individual or organizational partner
+
+      *   Serve on KCA's program committee to solidify plan details
+
+      Reach out using this form or by email to <board@kitsapculturalaccess.org>
     media:
       fields:
         - name: name
