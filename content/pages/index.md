@@ -90,7 +90,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Logo for Tacoma Created
+          altText: Logo for Tacoma Creates
           elementId: ''
           url: /images/tacoma_creates_logo.jpg
           styles:
