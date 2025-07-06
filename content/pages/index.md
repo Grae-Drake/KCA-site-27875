@@ -773,7 +773,7 @@ sections:
       fields:
         - type: SelectFormControl
           name: 'I''m interested in:'
-          label: I'm interested in
+          label: 'I''m interested in:'
           hideLabel: false
           defaultValue: Learning more
           options:
