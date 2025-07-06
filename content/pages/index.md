@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Kitsap deserves cultural access
       color: text-dark
       type: TitleBlock
     subtitle: Kitsap deserves cultural access
