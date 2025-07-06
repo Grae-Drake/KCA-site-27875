@@ -778,6 +778,13 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+          type: EmailFormControl
         - type: SelectFormControl
           name: I'm interested in
           label: Company size
@@ -786,13 +793,6 @@ sections:
           options: []
           isRequired: false
           width: full
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
