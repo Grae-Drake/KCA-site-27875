@@ -97,7 +97,7 @@ sections:
             self:
               borderRadius: none
       - title: Inspire Olympia
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Passed in 2022, Olympia..... Sed ut perspiciatis unde omnis iste natus
           error sit voluptatem accusantium doloremque laudantium, totam rem
