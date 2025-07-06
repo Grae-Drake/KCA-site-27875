@@ -792,6 +792,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Learning more
+            - ''
           isRequired: false
           width: full
         - name: message
