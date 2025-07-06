@@ -70,7 +70,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Successful Programs
+      text: Established Programs
       color: text-dark
       styles:
         self:
