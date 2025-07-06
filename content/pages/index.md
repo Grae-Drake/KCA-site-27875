@@ -429,7 +429,10 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    title: null
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: What our customers say about us
     items:
       - title: >-
