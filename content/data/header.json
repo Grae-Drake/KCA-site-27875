@@ -96,7 +96,7 @@
         },
         {
             "label": "Updates",
-            "altText": "Blog",
+            "altText": "Updates",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
