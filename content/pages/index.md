@@ -789,7 +789,7 @@ sections:
           name: I'm interested in
           label: I'm interested in
           hideLabel: false
-          defaultValue: Please choose...
+          defaultValue: ''
           options: []
           isRequired: false
           width: full
