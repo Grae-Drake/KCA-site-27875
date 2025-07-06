@@ -778,6 +778,14 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
+        - type: SelectFormControl
+          name: I'm interested in
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
         - name: email
           label: Email
           hideLabel: true
@@ -791,14 +799,6 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
-        - type: SelectFormControl
-          name: I'm interested in
-          label: Company size
-          hideLabel: false
-          defaultValue: Please choose...
-          options: []
-          isRequired: false
-          width: full
       elementId: contact-form
       styles:
         self:
