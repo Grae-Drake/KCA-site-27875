@@ -13,7 +13,7 @@ sections:
       arts, culture, heritage, and science across Kitsap County, particularly
       for  youth.
     actions:
-      - label: Get started
+      - label: Get involved
         altText: ''
         url: /
         showIcon: false
