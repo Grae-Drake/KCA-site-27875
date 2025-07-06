@@ -795,7 +795,7 @@ sections:
             - Advocating for cultural access
             - Joining KCA
             - Serving on the program committee
-            - ''
+            - Something else...
           isRequired: false
           width: full
         - name: message
