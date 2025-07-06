@@ -86,7 +86,7 @@
         {
             "type": "Link",
             "label": "Support",
-            "altText": "",
+            "altText": "Support",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
