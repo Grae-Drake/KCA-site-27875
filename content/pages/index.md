@@ -66,7 +66,7 @@ sections:
     subtitle: Communities across Washington support cultural access
     items:
       - type: FeaturedItem
-        title: Tacoma
+        title: Tacoma Creates
         subtitle: Spark Creativity
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
