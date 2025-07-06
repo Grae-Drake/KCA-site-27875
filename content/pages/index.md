@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Tacoma
-        subtitle: Numbers Done
+        subtitle: Spark Creativity
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
