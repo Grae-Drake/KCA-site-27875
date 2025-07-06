@@ -63,7 +63,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Framework",
             "altText": "",
             "url": "/",
             "showIcon": false,
