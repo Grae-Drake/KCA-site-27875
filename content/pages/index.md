@@ -68,10 +68,12 @@ sections:
       - type: FeaturedItem
         title: Tacoma Creates
         subtitle: Spark Creativity
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Passed in 2018, Tacoma established Washington's first cultural access
+          program with [Tacoma Creates](https://www.tacomacreates.org/). This
+          popular and successful program supported 80 nonprofits in arts,
+          culture, heritage, and science in 2025-2026, with a particular focus
+          on underserved youth.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
