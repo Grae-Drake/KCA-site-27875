@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Kitsap youth deserve cultural access
-    text: >+
+    text: >
       Kitsap Cultural Access is a community initiative to increase access to
       arts, culture, heritage, and science across Kitsap County, particularly
       for  youth.
@@ -35,11 +35,13 @@ sections:
       36.160.030](https://app.leg.wa.gov/RCW/default.aspx?cite=36.160.030). The
       Washington State Legislature recognized the need for local tools to
       provide public and educational benefits and support for cultural
-      organizations. Thriving, creative communities like Tacoma, King County,
-      Olympia, San Juan County and Vancouver have used these tools to
-      successfully remove barriers and increase access to public programs by
-      local cultural organizations.
+      organizations.
 
+
+      Thriving, creative communities like Tacoma, King County, Olympia, San Juan
+      County and Vancouver have used these tools to successfully remove barriers
+      and increase access to public programs by local cultural organizations.
+      Kitsap County can join their ranks.
     actions:
       - label: Get involved
         altText: ''
