@@ -29,6 +29,17 @@ sections:
 
       *   Improve economy....
 
+
+      Our first step is to develop a cultural access program for Kitsap County
+      to adopt under [RCW.
+      36.160.030](https://app.leg.wa.gov/RCW/default.aspx?cite=36.160.030). The
+      Washington State Legislature recognized the need for local tools to
+      provide public and educational benefits and support for cultural
+      organizations. Thriving, creative communities like Tacoma, King County,
+      Olympia, San Juan County and Vancouver have used these tools to
+      successfully remove barriers and increase access to public programs by
+      local cultural organizations.
+
     actions:
       - label: Get involved
         altText: ''
