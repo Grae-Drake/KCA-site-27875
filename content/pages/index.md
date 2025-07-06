@@ -771,6 +771,18 @@ sections:
       Reach out using this form or by email to <board@kitsapculturalaccess.org>
     media:
       fields:
+        - type: SelectFormControl
+          name: I'm interested in
+          label: I'm interested in
+          hideLabel: false
+          defaultValue: Learning more
+          options:
+            - Advocating for cultural access
+            - Joining KCA
+            - Serving on the program committee
+            - Something else...
+          isRequired: false
+          width: full
         - name: name
           label: Name
           hideLabel: true
@@ -785,18 +797,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - type: SelectFormControl
-          name: I'm interested in
-          label: I'm interested in
-          hideLabel: false
-          defaultValue: Learning more
-          options:
-            - Advocating for cultural access
-            - Joining KCA
-            - Serving on the program committee
-            - Something else...
-          isRequired: false
-          width: full
         - name: message
           label: Message
           hideLabel: true
