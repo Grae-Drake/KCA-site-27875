@@ -438,10 +438,8 @@ sections:
       - title: “A quote from a PA leader.”
         tagline: Performing Arts
         subtitle: 'First Last, Organization'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Text about the organization and its impact
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
