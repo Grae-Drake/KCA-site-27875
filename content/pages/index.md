@@ -214,7 +214,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: Get involved
         altText: ''
         url: /
         showIcon: false
