@@ -95,7 +95,7 @@ sections:
           url: /images/tacoma_creates_logo.jpg
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: none
       - title: Inspire Olympia
         subtitle: The Job Stuff
         text: >
