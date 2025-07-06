@@ -435,9 +435,7 @@ sections:
       color: text-dark
     subtitle: ''
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: “A quote from a PA leader.”
         tagline: Performing Arts
         subtitle: 'Maria Walters, Company'
         text: >-
