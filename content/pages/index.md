@@ -90,7 +90,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Logo for Tacoma Created
           elementId: ''
           url: /images/tacoma_creates_logo.jpg
           styles:
