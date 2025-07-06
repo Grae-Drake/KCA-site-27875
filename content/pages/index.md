@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Kitsap deserves cultural access
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Kitsap Cultural Access is a community initiative to increase access to
+      arts, culture, heritage, and science across Kitsap County, particularly
+      for  youth.
     actions:
       - label: Get started
         altText: ''
