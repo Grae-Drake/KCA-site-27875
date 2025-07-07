@@ -621,7 +621,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Areas of Impact
       color: text-primary
       styles:
         self:
