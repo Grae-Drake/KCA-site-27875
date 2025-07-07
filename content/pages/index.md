@@ -77,8 +77,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: >-
-        /images/Land-Labs-students-gather-around-an-instructor-and-learn-about-sample-plots-during-the-Shoreline-Module.webp
+      url: /images/abstract-feature2.svg
       altText: Dope design preview
       type: ImageBlock
       styles:
@@ -308,7 +307,7 @@ sections:
         text: |
           Why art is important
         image:
-          url: /images/sidney_gallery_20170813_22.webp
+          url: /images/abstract-feature2.svg
           altText: Placeholder Image
           styles:
             self:
@@ -331,7 +330,7 @@ sections:
         text: |
           Why culture / performing arts are important
         image:
-          url: /images/youth_jazz.avif
+          url: /images/abstract-feature3.svg
           altText: Placeholder image
           styles:
             self:
@@ -354,7 +353,7 @@ sections:
         text: |
           Why heritage is important
         image:
-          url: /images/manette_bridge_dedication_6-21-1930.jpeg
+          url: /images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:
@@ -379,7 +378,7 @@ sections:
           Why science is important
         image:
           type: ImageBlock
-          url: /images/GPC-Salmon-in-the-Classroom-Salmon-Release-Station-1.webp
+          url: /images/abstract-feature3.svg
           altText: Placeholder text
           styles:
             self:
@@ -403,7 +402,7 @@ sections:
           Why performing arts is important
         image:
           type: ImageBlock
-          url: /images/FiddlerCast.jpg
+          url: /images/abstract-feature2.svg
           altText: Placeholder text
           styles:
             self:
