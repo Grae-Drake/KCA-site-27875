@@ -384,7 +384,7 @@ sections:
           altText: Placeholder text
           styles:
             self:
-              borderRadius: none
+              borderRadius: x-small
         actions: []
         colors: bg-light-fg-dark
         styles:
