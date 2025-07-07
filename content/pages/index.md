@@ -264,7 +264,7 @@ sections:
         textAlign: center
   - title:
       text: Impact
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
