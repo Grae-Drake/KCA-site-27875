@@ -69,7 +69,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Business Consulting
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
