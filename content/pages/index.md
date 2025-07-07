@@ -263,7 +263,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Areas of Impact
+      text: Impact
       color: text-primary
       styles:
         self:
