@@ -347,7 +347,7 @@ sections:
           altText: Placeholder image
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: none
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
