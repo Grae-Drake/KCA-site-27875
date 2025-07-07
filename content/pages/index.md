@@ -318,7 +318,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Why culture / performing arts are important
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
