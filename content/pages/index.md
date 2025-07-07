@@ -297,7 +297,7 @@ sections:
         text: |
           Why art is important
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/sidney_gallery_20170813_22.webp
           altText: Placeholder Image
           styles:
             self:
