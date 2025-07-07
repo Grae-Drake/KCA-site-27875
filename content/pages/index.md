@@ -81,6 +81,9 @@ sections:
         /images/Land-Labs-students-gather-around-an-instructor-and-learn-about-sample-plots-during-the-Shoreline-Module.webp
       altText: Dope design preview
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: x-small
     badge:
       label: ''
       color: text-primary
