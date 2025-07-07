@@ -45,7 +45,7 @@ sections:
       styles:
         self:
           borderRadius: x-small
-    elementId: ''
+    elementId: about
     colors: bg-light-fg-dark
     styles:
       self:
@@ -70,7 +70,7 @@ sections:
       - type: Button
         label: Get involved
         altText: ''
-        url: /
+        url: '#support'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -96,7 +96,7 @@ sections:
     type: GenericSection
   - type: FeaturedItemsSection
     title:
-      text: Established Programs
+      text: Established Plans
       color: text-dark
       styles:
         self:
@@ -274,14 +274,14 @@ sections:
     actions:
       - label: Get involved
         altText: ''
-        url: /
+        url: '#support'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
         type: Button
-    elementId: ''
+    elementId: established_plans
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -433,6 +433,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    elementId: impact
   - type: GenericSection
     title:
       text: Arts & Culture improve livabiilty
@@ -570,6 +571,7 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    elementId: support
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

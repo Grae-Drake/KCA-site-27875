@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "About",
-            "url": "/pricing",
+            "url": "#about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -23,49 +23,17 @@
         {
             "label": "Established Plans",
             "altText": "Established Plans",
-            "url": "",
+            "url": "#established_plans",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
+            "type": "Link",
             "label": "Impact",
             "altText": "Impact",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
-            "type": "Link",
-            "label": "Support",
-            "altText": "Support",
-            "url": "/",
+            "url": "#impact",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -73,19 +41,21 @@
             "elementId": ""
         },
         {
-            "label": "Updates",
-            "altText": "Updates",
-            "url": "/blog",
+            "type": "Link",
+            "label": "Support",
+            "altText": "Support",
+            "url": "#support",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
         {
             "label": "Get Involved",
-            "url": "/",
+            "url": "#support",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
