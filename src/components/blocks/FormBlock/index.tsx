@@ -44,7 +44,6 @@ export default function FormBlock(props) {
             method="POST"
             data-netlify="true"
             netlify-honeypot="bot-field"
-{/*             onSubmit={handleSubmit} */}
             ref={formRef}
         >
             <input type="hidden" name="form-name" value={elementId} />
