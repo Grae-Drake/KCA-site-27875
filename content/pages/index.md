@@ -78,7 +78,7 @@ sections:
       businesses.
     actions:
       - type: Button
-        label: Get started
+        label: Get involved
         altText: ''
         url: /
         showIcon: false
