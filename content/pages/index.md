@@ -76,14 +76,7 @@ sections:
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/hero3.svg
       altText: Dope design preview
