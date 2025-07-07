@@ -23,7 +23,7 @@
         {
             "label": "Established Plans",
             "altText": "Established Plans",
-            "url": "",
+            "url": "#established_plans",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
