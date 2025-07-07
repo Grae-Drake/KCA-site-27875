@@ -77,8 +77,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: >-
-        /images/Land-Labs-students-gather-around-an-instructor-and-learn-about-sample-plots-during-the-Shoreline-Module.webp
+      url: /images/abstract-feature2.svg
       altText: Dope design preview
       type: ImageBlock
       styles:
