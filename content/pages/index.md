@@ -365,7 +365,7 @@ sections:
         tagline: Why science is important
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Why science is important
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
