@@ -715,7 +715,7 @@ sections:
       text: You can help
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: |
       There are several ways you can help. You can:
 
