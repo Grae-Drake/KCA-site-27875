@@ -31,6 +31,17 @@
         },
         {
             "type": "Link",
+            "label": "Impact",
+            "altText": "",
+            "url": "#impact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "label": "Support",
             "altText": "Support",
             "url": "/",
@@ -48,17 +59,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": "Impact",
-            "altText": "",
-            "url": "#impact",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
