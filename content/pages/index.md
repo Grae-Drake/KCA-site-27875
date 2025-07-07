@@ -320,7 +320,7 @@ sections:
         text: |
           Why culture / performing arts are important
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/youth_jazz.avif
           altText: Placeholder image
           styles:
             self:
