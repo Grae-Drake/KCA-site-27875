@@ -281,7 +281,7 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    elementId: ''
+    elementId: established_plans
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
