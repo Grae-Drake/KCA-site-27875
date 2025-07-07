@@ -611,7 +611,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Get involved
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
