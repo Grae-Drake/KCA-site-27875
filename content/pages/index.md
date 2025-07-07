@@ -362,7 +362,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Science
-        tagline: Why science is important
+        tagline: ''
         subtitle: ''
         text: |
           Why science is important
