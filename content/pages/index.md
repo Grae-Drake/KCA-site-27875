@@ -36,12 +36,6 @@ sections:
       Washington State Legislature recognized the need for local tools to
       provide public and educational benefits and support for cultural
       organizations.
-
-
-      Thriving, creative communities like Tacoma, King County, Olympia, San Juan
-      County and Vancouver have used these tools to successfully remove barriers
-      and increase access to local public programs. Kitsap County can join their
-      ranks.
     actions: []
     media:
       url: /images/youth_welding.jpg
