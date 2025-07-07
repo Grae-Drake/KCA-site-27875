@@ -54,7 +54,7 @@
         {
             "label": "Updates",
             "altText": "Updates",
-            "url": "/blog",
+            "url": "#updates",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
