@@ -434,7 +434,7 @@ sections:
     elementId: impact
   - type: GenericSection
     title:
-      text: Arts & Culture improve livabiilty
+      text: Arts & Culture improve livability
       color: text-dark
       styles:
         self:
