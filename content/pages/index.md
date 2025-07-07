@@ -402,7 +402,7 @@ sections:
           Why performing arts is important
         image:
           type: ImageBlock
-          url: /images/FiddlerCast.jpg
+          url: /images/abstract-feature2.svg
           altText: Placeholder text
           styles:
             self:
