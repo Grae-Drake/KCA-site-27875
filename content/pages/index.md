@@ -378,7 +378,7 @@ sections:
           Why science is important
         image:
           type: ImageBlock
-          url: /images/GPC-Salmon-in-the-Classroom-Salmon-Release-Station-1.webp
+          url: /images/abstract-feature3.svg
           altText: Placeholder text
           styles:
             self:
