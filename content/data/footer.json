@@ -2,7 +2,12 @@
     "logo": {
         "url": "/images/KCA_logo_128.jpg",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "borderRadius": "x-small"
+            }
+        }
     },
     "text": "Kitsap Cultural Access\n",
     "primaryLinks": {
