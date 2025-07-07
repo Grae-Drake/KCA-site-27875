@@ -42,16 +42,7 @@ sections:
       County and Vancouver have used these tools to successfully remove barriers
       and increase access to local public programs. Kitsap County can join their
       ranks.
-    actions:
-      - label: Get involved
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/youth_welding.jpg
       altText: Unblock your team boost your time to production preview
