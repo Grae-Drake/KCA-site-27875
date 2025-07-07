@@ -96,7 +96,7 @@ sections:
     type: GenericSection
   - type: FeaturedItemsSection
     title:
-      text: Established Programs
+      text: Established Plans
       color: text-dark
       styles:
         self:
