@@ -45,7 +45,7 @@ sections:
       styles:
         self:
           borderRadius: x-small
-    elementId: ''
+    elementId: about
     colors: bg-light-fg-dark
     styles:
       self:
