@@ -353,7 +353,7 @@ sections:
         text: |
           Why heritage is important
         image:
-          url: /images/manette_bridge_dedication_6-21-1930.jpeg
+          url: /images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:
