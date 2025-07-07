@@ -433,6 +433,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    elementId: impact
   - type: GenericSection
     title:
       text: Arts & Culture improve livabiilty
