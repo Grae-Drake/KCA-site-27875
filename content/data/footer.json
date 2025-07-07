@@ -15,16 +15,16 @@
         },
         {
             "type": "Social",
-            "altText": "Instagram link",
+            "altText": "Facebook link",
             "url": "/",
-            "icon": "instagram",
+            "icon": "facebook",
             "elementId": ""
         },
         {
             "type": "Social",
-            "altText": "Facebook link",
+            "altText": "Instagram link",
             "url": "/",
-            "icon": "facebook",
+            "icon": "instagram",
             "elementId": ""
         }
     ],
