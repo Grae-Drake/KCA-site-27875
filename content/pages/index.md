@@ -372,7 +372,7 @@ sections:
           altText: Placeholder text
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: none
         actions: []
         colors: bg-light-fg-dark
         styles:
