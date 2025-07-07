@@ -57,7 +57,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: sdf
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: ''
