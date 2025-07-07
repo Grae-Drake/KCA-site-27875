@@ -55,7 +55,7 @@
     "secondaryLinks": [
         {
             "label": "Get Involved",
-            "url": "/",
+            "url": "#support",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
