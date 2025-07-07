@@ -32,7 +32,7 @@
         {
             "type": "Link",
             "label": "Impact",
-            "altText": "",
+            "altText": "Impact",
             "url": "#impact",
             "showIcon": false,
             "icon": "arrowRight",
