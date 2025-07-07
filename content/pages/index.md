@@ -165,10 +165,9 @@ sections:
         type: FeaturedItem
       - title: Doors Open King County
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sed ut perspiciatis omnis iste natus error sit voluptatem accusantium
+          doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
         image:
           url: /images/doors_open_logo.jpg
           altText: Featured icon three
