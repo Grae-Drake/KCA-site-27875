@@ -36,27 +36,15 @@ sections:
       Washington State Legislature recognized the need for local tools to
       provide public and educational benefits and support for cultural
       organizations.
-
-
-      Thriving, creative communities like Tacoma, King County, Olympia, San Juan
-      County and Vancouver have used these tools to successfully remove barriers
-      and increase access to local public programs. Kitsap County can join their
-      ranks.
-    actions:
-      - label: Get involved
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/youth_welding.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: x-small
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -68,6 +56,44 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - title:
+      text: ''
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      Thriving, creative communities like Tacoma, King County, Olympia, San Juan
+      County and Vancouver have used these tools to successfully remove barriers
+      and increase access to local public programs. Kitsap County can join their
+      ranks.
+    actions:
+      - type: Button
+        label: Get involved
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    media:
+      url: >-
+        /images/Land-Labs-students-gather-around-an-instructor-and-learn-about-sample-plots-during-the-Shoreline-Module.webp
+      altText: Dope design preview
+      type: ImageBlock
+      styles:
+        self:
+          borderRadius: x-small
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Established Programs
@@ -108,7 +134,7 @@ sections:
           url: /images/tacoma_creates_logo.jpg
           styles:
             self:
-              borderRadius: none
+              borderRadius: x-small
       - title: Inspire Olympia
         subtitle: ''
         text: >
@@ -120,6 +146,9 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              borderRadius: x-small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -145,6 +174,9 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              borderRadius: x-small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -171,7 +203,7 @@ sections:
           elementId: ''
           styles:
             self:
-              borderRadius: none
+              borderRadius: x-small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -199,7 +231,7 @@ sections:
           elementId: ''
           styles:
             self:
-              borderRadius: none
+              borderRadius: x-small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -225,7 +257,7 @@ sections:
           elementId: ''
           styles:
             self:
-              borderRadius: none
+              borderRadius: x-small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -262,101 +294,163 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
+  - title:
+      text: Impact
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    items:
+      - title: Arts
+        tagline: ''
+        subtitle: ''
+        text: |
+          Why art is important
+        image:
+          url: /images/sidney_gallery_20170813_22.webp
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-small
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Culture
+        tagline: ''
+        subtitle: ''
+        text: |
+          Why culture / performing arts are important
+        image:
+          url: /images/youth_jazz.avif
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-small
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Heritage
+        tagline: ''
+        subtitle: ''
+        text: |
+          Why heritage is important
+        image:
+          url: /images/manette_bridge_dedication_6-21-1930.jpeg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-small
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - type: FeaturedItem
+        title: Science
+        tagline: ''
+        subtitle: ''
+        text: |
+          Why science is important
+        image:
+          type: ImageBlock
+          url: /images/GPC-Salmon-in-the-Classroom-Salmon-Release-Station-1.webp
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-small
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Performing arts
+        tagline: ''
+        subtitle: ''
+        text: |
+          Why performing arts is important
+        image:
+          type: ImageBlock
+          url: /images/FiddlerCast.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-small
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
           - pt-16
-          - pl-16
+          - pl-8
           - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title:
-      text: Framework and timeline
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: How we get this done
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
-    type: GenericSection
+    type: FeaturedItemsSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Arts & Culture improve livabiilty
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Arts and culture [play an important role](https://www.artsfund.org/lis/)
+      in the health and well-being of communities across Washington. Communities
+      with more accessible and well-funded arts and culture are more connected,
+      more involved, and have more economic opportunities.
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=E-_k8XKZ7B8'
       autoplay: true
       loop: true
       muted: true
@@ -382,42 +476,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -428,304 +486,27 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: Impact
-      color: text-dark
-    subtitle: ''
-    items:
-      - title: “A quote from a PA leader.”
-        tagline: Performing Arts
-        subtitle: 'First Last, Organization'
-        text: |
-          Text about the organization and its impact
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: You can help
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |
-      There are several ways you can help. You can:
+    subtitle: ''
+    text: >
+      Do you want better cultural access in Kitsap? Welcome to the team. You
+      can:
+
 
       *   Raise awareness of this issue
 
+
       *   Advocate for increased access
+
 
       *   Join KCA as an individual or organizational partner
 
+
       *   Serve on KCA's program committee to solidify plan details
+
 
       Reach out using this form or by email to <board@kitsapculturalaccess.org>
     media:
@@ -784,7 +565,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Get involved
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

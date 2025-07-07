@@ -63,17 +63,6 @@
         },
         {
             "type": "Link",
-            "label": "Framework",
-            "altText": "Framework",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "Support",
             "altText": "Support",
             "url": "/",
