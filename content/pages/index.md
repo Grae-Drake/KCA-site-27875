@@ -392,7 +392,7 @@ sections:
           Why performing arts is important
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/2025Annie_Big_Fish_Midsummer1a.jpg
           altText: Placeholder text
           styles:
             self:
