@@ -274,7 +274,7 @@ sections:
     actions:
       - label: Get involved
         altText: ''
-        url: /
+        url: '#support'
         showIcon: false
         icon: arrowRight
         iconPosition: right
