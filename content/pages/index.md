@@ -59,8 +59,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Thriving, creative communities like Tacoma, King County, Olympia, San Juan
+      County and Vancouver have used these tools to successfully remove barriers
+      and increase access to local public programs. Kitsap County can join their
+      ranks.
     actions:
       - type: Button
         label: Get involved
