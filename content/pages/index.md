@@ -716,16 +716,22 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      There are several ways you can help. You can:
+    text: >
+      Do you want better cultural access in Kitsap? Welcome to the team. You
+      can:
+
 
       *   Raise awareness of this issue
 
+
       *   Advocate for increased access
+
 
       *   Join KCA as an individual or organizational partner
 
+
       *   Serve on KCA's program committee to solidify plan details
+
 
       Reach out using this form or by email to <board@kitsapculturalaccess.org>
     media:
