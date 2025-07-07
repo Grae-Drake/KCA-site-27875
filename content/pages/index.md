@@ -134,7 +134,7 @@ sections:
           url: /images/tacoma_creates_logo.jpg
           styles:
             self:
-              borderRadius: none
+              borderRadius: x-small
       - title: Inspire Olympia
         subtitle: ''
         text: >
