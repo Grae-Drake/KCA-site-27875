@@ -478,11 +478,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Arts and culture [play an important role](https://www.artsfund.org/lis/)
+      in the health and well-being of communities across Washington. Communities
+      with more accessible and well-funded arts and culture are more connected,
+      more involved, and have more economic opportunities.
     actions: []
     media:
       title: Title of the video
