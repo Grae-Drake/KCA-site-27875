@@ -13,13 +13,13 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event) {
-        event.preventDefault();
+    // function handleSubmit(event) {
+    //     event.preventDefault();
 
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
-    }
+    //     const data = new FormData(formRef.current);
+    //     const value = Object.fromEntries(data.entries());
+    //     alert(`Form data: ${JSON.stringify(value)}`);
+    // }
 
     return (
         <form
@@ -41,10 +41,18 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             id={elementId}
-            onSubmit={handleSubmit}
+            method="POST"
+            data-netlify="true"
+            netlify-honeypot="bot-field"
+{/*             onSubmit={handleSubmit} */}
             ref={formRef}
-            data-sb-field-path= {fieldPath}
         >
+            <input type="hidden" name="form-name" value={elementId} />
+            <p style={{ display: 'none' }}>
+                <label>
+                    Don’t fill this out if you're human: <input name="bot-field" />
+                </label>
+            </p>
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
                 {...(fieldPath && { 'data-sb-field-path': '.fields' })}
