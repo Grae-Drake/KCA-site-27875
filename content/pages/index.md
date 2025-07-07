@@ -338,7 +338,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Heritage
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
