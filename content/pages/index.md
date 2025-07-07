@@ -281,6 +281,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Areas of Impact
   - title: Divider
     colors: bg-light-fg-dark
     styles:
