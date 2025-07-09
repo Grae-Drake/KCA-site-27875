@@ -13,14 +13,6 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event) {
-        event.preventDefault();
-
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
-    }
-
     return (
         <form
             className={classNames(
@@ -41,7 +33,7 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             id={elementId}
-            onSubmit={handleSubmit}
+            method='POST'
             ref={formRef}
             data-netlify='true'
             data-sb-field-path={fieldPath}
