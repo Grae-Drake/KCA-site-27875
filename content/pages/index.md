@@ -136,10 +136,7 @@ sections:
               borderRadius: x-small
       - title: Inspire Olympia
         subtitle: ''
-        text: >
-          Passed in 2022, Olympia..... Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae. explicabo.
+        text: "Passed in 2022, Olympia manages the [Inspire Olympia](https://www.olympiawa.gov/community/arts,_culture___heritage/cultural_access.php) program at the city level through applications reviewed by a group of community members and a Cultural Access Advisory Board. Focusing on youth and underserved populations, this program supported 60 local nonprofits during the last annual cycle.\_\n\n\n"
         image:
           url: /images/inspire_olympia_logo.png
           altText: Featured icon two
