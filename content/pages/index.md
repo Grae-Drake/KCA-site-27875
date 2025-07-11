@@ -402,8 +402,10 @@ sections:
         title: Performing arts
         tagline: ''
         subtitle: ''
-        text: |
-          Why performing arts is important
+        text: >
+          Performing arts don’t just entertain—they educate, unite, and elevate.
+          They make us feel, think, and see the world in new ways: building
+          empathy by making stories tangible.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
