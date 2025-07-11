@@ -377,8 +377,9 @@ sections:
         title: Science
         tagline: ''
         subtitle: ''
-        text: |
-          Why science is important
+        text: >
+          Science is the engine of progress. It improves lives, expands our
+          knowledge, and helps us shape a better, more informed future.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
