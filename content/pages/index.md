@@ -161,9 +161,16 @@ sections:
         type: FeaturedItem
       - title: Doors Open King County
         subtitle: ''
-        text: >
-          Sed ut perspiciatis omnis iste natus error sit voluptatem accusantium
-          doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
+        text: >+
+          King County’s[ Doors Open](https://www.4culture.org/doors-open/)
+          program was passed in December 2023. Administered by 4Culture, this
+          program provides an estimated $100 million per year using an existing
+          granting system already used to distribute lodging tax funds. The Open
+          Doors program also focuses on wide distribution of funds, with a
+          minimum of 25% of funds being granted to organizations outside of
+          Seattle.
+
+
         image:
           url: /images/doors_open_logo.jpg
           altText: Featured icon three
