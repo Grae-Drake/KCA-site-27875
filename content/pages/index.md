@@ -302,8 +302,10 @@ sections:
       - title: Arts
         tagline: ''
         subtitle: ''
-        text: |
-          Why art is important
+        text: >
+          Art reflects our diverse human experiences, challenges what we think,
+          and connects us to each other across time and space. It has benefits
+          for mental health and improves educational outcomes.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder Image
