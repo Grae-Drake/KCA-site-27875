@@ -32,5 +32,16 @@
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": ""
+    "title": "",
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/KCA_white_text_large.jpg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    }
 }

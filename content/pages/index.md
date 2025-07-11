@@ -136,10 +136,7 @@ sections:
               borderRadius: x-small
       - title: Inspire Olympia
         subtitle: ''
-        text: >
-          Passed in 2022, Olympia..... Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae. explicabo.
+        text: "Passed in 2022, Olympia manages the [Inspire Olympia](https://www.olympiawa.gov/community/arts,_culture___heritage/cultural_access.php) program at the city level through applications reviewed by a group of community members and a Cultural Access Advisory Board. Focusing on youth and underserved populations, this program supported 60 local nonprofits during the last annual cycle.\_\n\n\n"
         image:
           url: /images/inspire_olympia_logo.png
           altText: Featured icon two
@@ -164,9 +161,16 @@ sections:
         type: FeaturedItem
       - title: Doors Open King County
         subtitle: ''
-        text: >
-          Sed ut perspiciatis omnis iste natus error sit voluptatem accusantium
-          doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
+        text: >+
+          King County’s[ Doors Open](https://www.4culture.org/doors-open/)
+          program was passed in December 2023. Administered by 4Culture, this
+          program provides an estimated $100 million per year using an existing
+          granting system already used to distribute lodging tax funds. The Open
+          Doors program also focuses on wide distribution of funds, with a
+          minimum of 25% of funds being granted to organizations outside of
+          Seattle.
+
+
         image:
           url: /images/doors_open_logo.jpg
           altText: Featured icon three
@@ -190,10 +194,7 @@ sections:
       - type: FeaturedItem
         title: San Juan County
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Approved at the December 2024 county council meeting, the San Juan County tax to support Cultural Access went into effect in April 2025 to begin funding the program. Managed by the [Parks, Recreation and Fair Department](https://www.sanjuancountywa.gov/2168/Cultural-Access-Program-Proposal) of the county, collected funds will first be used to support access to arts, culture and science opportunities by schools.\_\n\n\n"
         image:
           type: ImageBlock
           url: /images/san_juan_county_seal.jpg
@@ -218,10 +219,7 @@ sections:
       - type: FeaturedItem
         title: Vancouver
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Much like San Juan County, the [City of Vancouver](https://www.cityofvancouver.us/government/department/parks-recreation-and-cultural-services/culture-arts-and-heritage/cultural-access-program/#:~:text=The%20Vancouver%20Cultural%20Access%20Program%20is%20rooted%20in%20the%20community,local%20non%2Dprofit%20cultural%20organizations.)’s Cultural Access program was approved in December 2024 and began collecting funds in April 2025. Expected to generate up to $7 million each year, a portion of which will be used to support programs for k-12 education.\_\n"
         image:
           type: ImageBlock
           url: /images/city_of_vancouver_washington_logo.jpeg
@@ -304,8 +302,10 @@ sections:
       - title: Arts
         tagline: ''
         subtitle: ''
-        text: |
-          Why art is important
+        text: >
+          Art reflects our diverse human experiences, challenges what we think,
+          and connects us to each other across time and space. It has benefits
+          for mental health and improves educational outcomes.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder Image
@@ -327,8 +327,9 @@ sections:
       - title: Culture
         tagline: ''
         subtitle: ''
-        text: |
-          Why culture / performing arts are important
+        text: >
+          Culture shares how we live and why we live the way we do. It roots us
+          in the past, shapes our present, and guides us into the future.
         image:
           url: /images/abstract-feature3.svg
           altText: Placeholder image
@@ -350,8 +351,10 @@ sections:
       - title: Heritage
         tagline: ''
         subtitle: ''
-        text: |
-          Why heritage is important
+        text: >
+          Heritage connects us to our roots, identity, and shared human story.
+          It helps us understand ourselves, respect others, and build a more
+          connected future.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -374,8 +377,9 @@ sections:
         title: Science
         tagline: ''
         subtitle: ''
-        text: |
-          Why science is important
+        text: >
+          Science is the engine of progress. It improves lives, expands our
+          knowledge, and helps us shape a better, more informed future.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
@@ -398,11 +402,13 @@ sections:
         title: Performing arts
         tagline: ''
         subtitle: ''
-        text: |
-          Why performing arts is important
+        text: >
+          Performing arts don’t just entertain—they educate, unite, and elevate.
+          They make us feel, think, and see the world in new ways: building
+          empathy by making stories tangible.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/abstract-feature3.svg
           altText: Placeholder text
           styles:
             self:
