@@ -194,10 +194,7 @@ sections:
       - type: FeaturedItem
         title: San Juan County
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Approved at the December 2024 county council meeting, the San Juan County tax to support Cultural Access went into effect in April 2025 to begin funding the program. Managed by the [Parks, Recreation and Fair Department](https://www.sanjuancountywa.gov/2168/Cultural-Access-Program-Proposal) of the county, collected funds will first be used to support access to arts, culture and science opportunities by schools.\_\n\n\n"
         image:
           type: ImageBlock
           url: /images/san_juan_county_seal.jpg
