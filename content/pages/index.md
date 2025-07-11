@@ -351,8 +351,10 @@ sections:
       - title: Heritage
         tagline: ''
         subtitle: ''
-        text: |
-          Why heritage is important
+        text: >
+          Heritage connects us to our roots, identity, and shared human story.
+          It helps us understand ourselves, respect others, and build a more
+          connected future.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
