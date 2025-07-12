@@ -12,31 +12,6 @@ export default function FormBlock(props) {
         return null;
     }
 
-    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-        console.log('=== FORM SUBMISSION DEBUG ===');
-        
-        const formData = new FormData(e.currentTarget);
-        console.log('All form data:');
-        for (let [key, value] of formData.entries()) {
-            console.log(`  ${key}: "${value}"`);
-        }
-        
-        // Check if all required fields are present
-        const requiredFields = ['form-name', 'name', 'email'];
-        const missingFields = requiredFields.filter(field => !formData.has(field));
-        if (missingFields.length > 0) {
-            console.error('Missing required fields:', missingFields);
-        }
-        
-        console.log('Form target:', e.currentTarget.action);
-        console.log('Form method:', e.currentTarget.method);
-        console.log('Form name attribute:', e.currentTarget.getAttribute('name'));
-        console.log('Form has data-netlify:', e.currentTarget.hasAttribute('data-netlify'));
-        console.log('Form has data-netlify-honeypot:', e.currentTarget.hasAttribute('data-netlify-honeypot'));
-        
-        // Don't prevent default - let Netlify handle it
-    };
-
     return (
         <form
             className={classNames(
@@ -59,26 +34,8 @@ export default function FormBlock(props) {
             method="POST"
             data-netlify="true"
             data-netlify-honeypot="bot-field"
-            onSubmit={handleSubmit}
             data-sb-field-path={fieldPath}
         >
-            {/* Debug info visible on page */}
-            <div style={{ 
-                background: '#f0f9ff', 
-                border: '1px solid #0ea5e9',
-                padding: '10px', 
-                margin: '10px 0', 
-                fontSize: '12px',
-                borderRadius: '4px'
-            }}>
-                <strong>🐛 DEBUG INFO (remove after fixing):</strong><br/>
-                Form name: contact-form<br/>
-                Method: POST<br/>
-                Netlify attributes: data-netlify="true"<br/>
-                Fields to render: {fields.length}<br/>
-                <em>Check browser console for detailed form data when submitting</em>
-            </div>
-
             {/* Hidden field for Netlify form identification */}
             <input type="hidden" name="form-name" value="contact-form" />
             
