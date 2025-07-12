@@ -603,12 +603,6 @@ sections:
       Reach by email to <board@kitsapculturalaccess.org> for more information or
       to get involved.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
