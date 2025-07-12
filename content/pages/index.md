@@ -7,7 +7,7 @@ sections:
       text: Kitsap Cultural Access
       color: text-dark
       type: TitleBlock
-    subtitle: Access to local culture & creativity
+    subtitle: Public access to local culture & creativity
     text: >
       Kitsap Cultural Access is a community initiative to increase access to
       arts, culture, heritage, and science across Kitsap County, particularly
