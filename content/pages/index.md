@@ -17,25 +17,24 @@ sections:
       Our goals are to:
 
 
-      *   Support public programs in arts, culture, heritage, and science
+      *   Support public programs in arts, culture, heritage, and science,
 
 
       *   Increase access and remove barriers to these programs, particularly
-      for youth
+      for youth,
 
 
-      *   Improve livability measures in Kitsap County like...
+      *   Improve livability measures in Kitsap County, and
 
 
-      *   Improve economy....
+      *   Strengthen Kitsap's creative economy.
 
 
       Our first step is to develop a cultural access program for Kitsap County
       to adopt under [RCW.
-      36.160.030](https://app.leg.wa.gov/RCW/default.aspx?cite=36.160.030). The
-      Washington State Legislature recognized the need for local tools to
-      provide public and educational benefits and support for cultural
-      organizations.
+      36.160.030](https://app.leg.wa.gov/RCW/default.aspx?cite=36.160.030), the
+      tool set Washington State created for communities to create and fund
+      cultural access plans for the public benefit.
     actions: []
     media:
       url: /images/youth_welding.jpg
