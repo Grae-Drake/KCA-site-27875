@@ -519,7 +519,7 @@ sections:
     media:
       fields:
         - type: SelectFormControl
-          name: I am interested in
+          name: interest
           label: 'I am interested in:'
           hideLabel: false
           defaultValue: Learning more

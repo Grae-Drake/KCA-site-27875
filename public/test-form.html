@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Form</title>
+</head>
+<body>
+    <h1>Test Form - Minimal Version</h1>
+    
+    <!-- This should work if Netlify is set up correctly -->
+    <form name="test-form" method="POST" data-netlify="true">
+        <input type="hidden" name="form-name" value="test-form" />
+        
+        <p>
+            <label>Name: <input type="text" name="name" required /></label>
+        </p>
+        <p>
+            <label>Email: <input type="email" name="email" required /></label>
+        </p>
+        <p>
+            <label>Message: <textarea name="message" required></textarea></label>
+        </p>
+        <p>
+            <button type="submit">Submit Test</button>
+        </p>
+    </form>
+
+    <hr>
+    
+    <h2>Contact Form - Exact Copy</h2>
+    <!-- This matches your React form exactly -->
+    <form name="contact-form" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="contact-form" />
+        
+        <div style="display: none;">
+            <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+        </div>
+        
+        <p>
+            <label for="interested">I am interested in:</label>
+            <select name="I am interested in" id="interested">
+                <option value="Learning more">Learning more</option>
+                <option value="Advocating for cultural access">Advocating for cultural access</option>
+                <option value="Joining KCA">Joining KCA</option>
+                <option value="Serving on the program committee">Serving on the program committee</option>
+                <option value="Something else...">Something else...</option>
+            </select>
+        </p>
+        <p>
+            <label for="name">Name:</label>
+            <input type="text" name="name" id="name" required />
+        </p>
+        <p>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" required />
+        </p>
+        <p>
+            <label for="message">Message:</label>
+            <textarea name="message" id="message"></textarea>
+        </p>
+        <p>
+            <button type="submit">Submit</button>
+        </p>
+    </form>
+</body>
+</html>
