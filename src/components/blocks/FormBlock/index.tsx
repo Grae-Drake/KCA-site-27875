@@ -32,8 +32,9 @@ export default function FormBlock(props) {
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
             name="contact-form"
-            id={elementId}
+            id="contact-form"
             method='POST'
+            action="/"
             ref={formRef}
             data-netlify='true'
             data-sb-field-path={fieldPath}
