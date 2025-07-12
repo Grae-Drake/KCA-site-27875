@@ -32,7 +32,16 @@ function Page(props) {
                     return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                 })}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                {site.favicon && <link rel="icon" href={site.favicon} />}
+                
+                {/* Enhanced Favicon Support */}
+                <link rel="icon" href="/favicon/favicon.ico" sizes="any" />
+                <link rel="icon" href="/favicon/favicon.svg" type="image/svg+xml" />
+                <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" />
+                <link rel="icon" type="image/png" sizes="32x32" href="/favicon.favicon-32x32.png" />
+                <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
+                <link rel="manifest" href="/site.webmanifest" />
+                <meta name="theme-color" content="#f27c21" />
+
             </Head>
             <PageLayout page={page} site={site} />
         </>
