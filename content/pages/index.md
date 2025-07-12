@@ -602,14 +602,7 @@ sections:
 
       Reach by email to <board@kitsapculturalaccess.org> for more information or
       to get involved.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
