@@ -537,9 +537,6 @@ sections:
       grae@kitsapculturalaccess.org for details
     images:
       - type: ImageBlock
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/contenful-logo.svg
         altText: Contentful logo
         elementId: ''
