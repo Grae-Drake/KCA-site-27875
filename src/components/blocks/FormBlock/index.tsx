@@ -13,10 +13,11 @@ export default function FormBlock(props) {
         return null;
     }
 
-    // Handle form submission to ensure it goes to Netlify
+    // Handle form submission - let Netlify handle it naturally
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-        // Don't prevent default - let Netlify handle it
+        // Don't prevent default - let Netlify handle the submission
         console.log('Form submitting to Netlify...');
+        // You can add client-side validation here if needed
     };
 
     return (
@@ -38,22 +39,23 @@ export default function FormBlock(props) {
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
             name="contact-form"
-            id="contact-form"
             method="POST"
-            // Remove the action="#" or set it to current page
+            action="/contact-form" // Optional: specify where to redirect after submission
             data-netlify="true"
             data-netlify-honeypot="bot-field"
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path={fieldPath}
         >
-            {/* Hidden fields for Netlify */}
+            {/* Hidden fields for Netlify - CRITICAL: form-name value must match the name attribute above */}
             <input type="hidden" name="form-name" value="contact-form" />
-            <p style={{ display: 'none' }}>
+            
+            {/* Honeypot field for spam protection */}
+            <div style={{ display: 'none' }}>
                 <label>
                     Don't fill this out if you're human: <input name="bot-field" />
                 </label>
-            </p>
+            </div>
             
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
