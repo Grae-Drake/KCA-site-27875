@@ -13,6 +13,12 @@ export default function FormBlock(props) {
         return null;
     }
 
+    // Handle form submission to ensure it goes to Netlify
+    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+        // Don't prevent default - let Netlify handle it
+        console.log('Form submitting to Netlify...');
+    };
+
     return (
         <form
             className={classNames(
@@ -33,17 +39,26 @@ export default function FormBlock(props) {
             )}
             name="contact-form"
             id="contact-form"
-            method='POST'
-            action="#"
+            method="POST"
+            // Remove the action="#" or set it to current page
+            data-netlify="true"
+            data-netlify-honeypot="bot-field"
+            onSubmit={handleSubmit}
             ref={formRef}
-            data-netlify='true'
             data-sb-field-path={fieldPath}
         >
+            {/* Hidden fields for Netlify */}
+            <input type="hidden" name="form-name" value="contact-form" />
+            <p style={{ display: 'none' }}>
+                <label>
+                    Don't fill this out if you're human: <input name="bot-field" />
+                </label>
+            </p>
+            
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
                 {...(fieldPath && { 'data-sb-field-path': '.fields' })}
             >
-                <input type="hidden" name="form-name" value="contact-form" />
                 {fields.map((field, index) => {
                     const modelName = field.__metadata.modelName;
                     if (!modelName) {
