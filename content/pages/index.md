@@ -532,7 +532,9 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: >-
+      Next meeting: Friday July 25th at noon in Bremerton. Venue TBD, email
+      grae@kitsapculturalaccess.org for details
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
