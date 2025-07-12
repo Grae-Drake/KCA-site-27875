@@ -25,7 +25,9 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: This is a badge
+      label: >-
+        Next meeting: Friday July 25th at noon in Bremerton. Venue TBD, email
+        grae@kitsapculturalaccess.org for details
       color: text-primary
   - type: DividerSection
     title: Divider
