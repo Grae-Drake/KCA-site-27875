@@ -30,7 +30,9 @@ export default function FormBlock(props) {
         
         console.log('Form target:', e.currentTarget.action);
         console.log('Form method:', e.currentTarget.method);
-        console.log('Form name:', e.currentTarget.name);
+        console.log('Form name attribute:', e.currentTarget.getAttribute('name'));
+        console.log('Form has data-netlify:', e.currentTarget.hasAttribute('data-netlify'));
+        console.log('Form has data-netlify-honeypot:', e.currentTarget.hasAttribute('data-netlify-honeypot'));
         
         // Don't prevent default - let Netlify handle it
     };
@@ -62,30 +64,32 @@ export default function FormBlock(props) {
         >
             {/* Debug info visible on page */}
             <div style={{ 
-                background: '#f0f0f0', 
+                background: '#f0f9ff', 
+                border: '1px solid #0ea5e9',
                 padding: '10px', 
                 margin: '10px 0', 
                 fontSize: '12px',
-                border: '1px solid #ccc'
+                borderRadius: '4px'
             }}>
-                <strong>DEBUG INFO (remove after fixing):</strong><br/>
+                <strong>🐛 DEBUG INFO (remove after fixing):</strong><br/>
                 Form name: contact-form<br/>
                 Method: POST<br/>
                 Netlify attributes: data-netlify="true"<br/>
-                Fields to render: {fields.length}
+                Fields to render: {fields.length}<br/>
+                <em>Check browser console for detailed form data when submitting</em>
             </div>
 
-            {/* Critical hidden fields */}
+            {/* Hidden field for Netlify form identification */}
             <input type="hidden" name="form-name" value="contact-form" />
             
-            {/* Honeypot for spam protection */}
+            {/* Honeypot field for spam protection */}
             <div style={{ display: 'none' }}>
                 <label>
                     Don't fill this out if you're human: <input name="bot-field" tabIndex={-1} autoComplete="off" />
                 </label>
             </div>
             
-            {/* Form fields */}
+            {/* Dynamic form fields */}
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
                 {...(fieldPath && { 'data-sb-field-path': '.fields' })}
