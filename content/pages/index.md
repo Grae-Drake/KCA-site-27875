@@ -535,11 +535,7 @@ sections:
     subtitle: >-
       Next meeting: Friday July 25th at noon in Bremerton. Venue TBD, email
       grae@kitsapculturalaccess.org for details
-    images:
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-        elementId: ''
+    images: []
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
