@@ -12,9 +12,9 @@ export default function DefaultBaseLayout(props) {
     return (
         <>
             <Head>
-                <link rel="icon" href="/favicon/favicon.ico" sizes="any" />
-                <link rel="icon" href="/favicon/favicon.svg" type="image/svg+xml" />
-                <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" />
+                <link rel="icon" href="/images/favicon/favicon.ico" sizes="any" />
+                <link rel="icon" href="/images/favicon/favicon.svg" type="image/svg+xml" />
+                <link rel="apple-touch-icon" href="/images/favicon/apple-touch-icon.png" />
                 <link rel="manifest" href="/site.webmanifest" />
                 <meta name="theme-color" content="#f27c21" />
             </Head>
