@@ -218,7 +218,7 @@ sections:
       - type: FeaturedItem
         title: Vancouver
         subtitle: ''
-        text: "Much like San Juan County, the [City of Vancouver](https://www.cityofvancouver.us/government/department/parks-recreation-and-cultural-services/culture-arts-and-heritage/cultural-access-program/#:~:text=The%20Vancouver%20Cultural%20Access%20Program%20is%20rooted%20in%20the%20community,local%20non%2Dprofit%20cultural%20organizations.)’s Cultural Access program was approved in December 2024 and began collecting funds in April 2025. Expected to generate up to $7 million each year, a portion of which will be used to support programs for k-12 education.\_\n"
+        text: "Much like San Juan County, the [City of Vancouver](https://www.cityofvancouver.us/government/department/parks-recreation-and-cultural-services/culture-arts-and-heritage/cultural-access-program/#:~:text=The%20Vancouver%20Cultural%20Access%20Program%20is%20rooted%20in%20the%20community,local%20non%2Dprofit%20cultural%20organizations.)’s Cultural Access program was approved in December 2024 and began collecting funds in April 2025. Expected to generate up to $7 million each year, a portion will be used to support programs for K-12 education.\_\n"
         image:
           type: ImageBlock
           url: /images/city_of_vancouver_washington_logo.jpeg
