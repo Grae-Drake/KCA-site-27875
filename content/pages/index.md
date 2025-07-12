@@ -29,6 +29,9 @@ sections:
         Next meeting: Friday July 25th at noon in Bremerton. Venue TBD, email
         grae@kitsapculturalaccess.org for details
       color: text-primary
+      styles:
+        self:
+          fontWeight: 700
   - type: DividerSection
     title: Divider
     elementId: ''
