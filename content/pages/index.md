@@ -3,9 +3,7 @@ title: Home
 slug: /
 sections:
   - type: ImageGallerySection
-    subtitle: >-
-      Next meeting: Friday July 25th at noon in Bremerton. Venue TBD, email
-      grae@kitsapculturalaccess.org for details
+    subtitle: ''
     images: []
     elementId: next-meeting
     motion: static
