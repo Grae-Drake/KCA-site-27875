@@ -591,7 +591,7 @@ sections:
       *   Raise awareness of this issue
 
 
-      *   Advocate for increased access
+      *   Advocate for increased cultural access
 
 
       *   Join KCA as an individual or organizational partner
@@ -600,7 +600,8 @@ sections:
       *   Serve on KCA's program committee to solidify plan details
 
 
-      Reach out using this form or by email to <board@kitsapculturalaccess.org>
+      Reach by email to <board@kitsapculturalaccess.org> for more information or
+      to get involved.
     actions:
       - type: Button
         label: Get started
