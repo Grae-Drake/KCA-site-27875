@@ -1,5 +1,5 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/favicon/favicon.svg",
     "footer": "content/data/footer.json",
     "titleSuffix": "Theme Demo",
     "defaultSocialImage": "/images/main-hero.jpg",

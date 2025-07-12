@@ -32,7 +32,16 @@ function Page(props) {
                     return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                 })}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                {site.favicon && <link rel="icon" href={site.favicon} />}
+                
+                {/* Enhanced Favicon Support */}
+                <link rel="icon" type="image/png" href="/public/images/favicon/favicon-96x96.png" sizes="96x96" />
+                <link rel="icon" type="image/svg+xml" href="/images/favicon/favicon.svg" />
+                <link rel="shortcut icon" href="/images/favicon/favicon.ico" />
+                <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png" />
+                <link rel="manifest" href="/site.webmanifest" />
+                <meta name="apple-mobile-web-app-title" content="Kitsap Cultural Access" />
+                <meta name="theme-color" content="#f27c21" />
+
             </Head>
             <PageLayout page={page} site={site} />
         </>
