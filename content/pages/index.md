@@ -584,8 +584,23 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Do you want better cultural access in Kitsap? Welcome to the team. You
+      can:
+
+
+      *   Raise awareness of this issue
+
+
+      *   Advocate for increased access
+
+
+      *   Join KCA as an individual or organizational partner
+
+
+      *   Serve on KCA's program committee to solidify plan details
+
+
+      Reach out using this form or by email to <board@kitsapculturalaccess.org>
     actions:
       - type: Button
         label: Get started
