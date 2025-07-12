@@ -2,6 +2,47 @@
 title: Home
 slug: /
 sections:
+  - type: ImageGallerySection
+    subtitle: ''
+    images: []
+    elementId: next-meeting
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    badge:
+      type: Badge
+      label: >-
+        Next meeting: Friday July 25th at noon in Bremerton. Venue TBD, email
+        grae@kitsapculturalaccess.org for details
+      color: text-primary
+      styles:
+        self:
+          fontWeight: 700
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: GenericSection
     title:
       text: Kitsap Cultural Access
