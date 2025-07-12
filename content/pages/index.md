@@ -7,7 +7,7 @@ sections:
       text: Kitsap Cultural Access
       color: text-dark
       type: TitleBlock
-    subtitle: Access to local culture & creativity
+    subtitle: Public access to local culture
     text: >
       Kitsap Cultural Access is a community initiative to increase access to
       arts, culture, heritage, and science across Kitsap County, particularly
@@ -17,25 +17,24 @@ sections:
       Our goals are to:
 
 
-      *   Support public programs in arts, culture, heritage, and science
+      *   Support public programs in arts, culture, heritage, and science,
 
 
       *   Increase access and remove barriers to these programs, particularly
-      for youth
+      for youth,
 
 
-      *   Improve livability measures in Kitsap County like...
+      *   Improve livability measures in Kitsap County, and
 
 
-      *   Improve economy....
+      *   Strengthen Kitsap's creative economy.
 
 
       Our first step is to develop a cultural access program for Kitsap County
       to adopt under [RCW.
-      36.160.030](https://app.leg.wa.gov/RCW/default.aspx?cite=36.160.030). The
-      Washington State Legislature recognized the need for local tools to
-      provide public and educational benefits and support for cultural
-      organizations.
+      36.160.030](https://app.leg.wa.gov/RCW/default.aspx?cite=36.160.030), the
+      tool set Washington State created for communities to create and fund
+      cultural access plans for the public benefit.
     actions: []
     media:
       url: /images/youth_welding.jpg
@@ -219,7 +218,7 @@ sections:
       - type: FeaturedItem
         title: Vancouver
         subtitle: ''
-        text: "Much like San Juan County, the [City of Vancouver](https://www.cityofvancouver.us/government/department/parks-recreation-and-cultural-services/culture-arts-and-heritage/cultural-access-program/#:~:text=The%20Vancouver%20Cultural%20Access%20Program%20is%20rooted%20in%20the%20community,local%20non%2Dprofit%20cultural%20organizations.)’s Cultural Access program was approved in December 2024 and began collecting funds in April 2025. Expected to generate up to $7 million each year, a portion of which will be used to support programs for k-12 education.\_\n"
+        text: "Much like San Juan County, the [City of Vancouver](https://www.cityofvancouver.us/government/department/parks-recreation-and-cultural-services/culture-arts-and-heritage/cultural-access-program/#:~:text=The%20Vancouver%20Cultural%20Access%20Program%20is%20rooted%20in%20the%20community,local%20non%2Dprofit%20cultural%20organizations.)’s Cultural Access program was approved in December 2024 and began collecting funds in April 2025. Expected to generate up to $7 million each year, a portion will be used to support programs for K-12 education.\_\n"
         image:
           type: ImageBlock
           url: /images/city_of_vancouver_washington_logo.jpeg
@@ -493,10 +492,11 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: You can help
       color: text-dark
-      type: TitleBlock
     subtitle: ''
     text: >
       Do you want better cultural access in Kitsap? Welcome to the team. You
@@ -506,7 +506,7 @@ sections:
       *   Raise awareness of this issue
 
 
-      *   Advocate for increased access
+      *   Advocate for increased cultural access
 
 
       *   Join KCA as an individual or organizational partner
@@ -515,69 +515,22 @@ sections:
       *   Serve on KCA's program committee to solidify plan details
 
 
-      Reach out using this form or by email to <board@kitsapculturalaccess.org>
+      Reach by email to <board@kitsapculturalaccess.org> for more information or
+      to get involved.
+    actions: []
     media:
-      fields:
-        - type: SelectFormControl
-          name: interest
-          label: 'I am interested in:'
-          hideLabel: false
-          defaultValue: Learning more
-          options:
-            - Advocating for cultural access
-            - Joining KCA
-            - Serving on the program committee
-            - Something else...
-          isRequired: false
-          width: full
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
     badge:
-      label: ''
-      color: text-primary
       type: Badge
+      label: This is a badge
+      color: text-primary
     colors: bg-light-fg-dark
-    type: GenericSection
-    elementId: support
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
