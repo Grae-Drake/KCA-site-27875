@@ -537,9 +537,6 @@ sections:
       grae@kitsapculturalaccess.org for details
     images:
       - type: ImageBlock
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
