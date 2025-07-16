@@ -349,7 +349,7 @@ sections:
           and connects us to each other across time and space. It has benefits
           for mental health and improves educational outcomes.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Print-WoodcutPrinting-1024-3.jpg
           altText: Placeholder Image
           styles:
             self:
