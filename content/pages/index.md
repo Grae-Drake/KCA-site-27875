@@ -26,7 +26,7 @@ sections:
     badge:
       type: Badge
       label: >-
-        Next meeting: Friday July 25th at noon in Bremerton. Venue TBD, email
+        Next meeting: Friday July 25th at noon at kitsap history museum , email
         grae@kitsapculturalaccess.org for details
       color: text-primary
       styles:
