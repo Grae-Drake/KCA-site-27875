@@ -398,7 +398,7 @@ sections:
           It helps us understand ourselves, respect others, and build a more
           connected future.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/heritage.png
           altText: Placeholder image
           styles:
             self:
