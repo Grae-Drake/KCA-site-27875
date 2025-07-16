@@ -373,7 +373,7 @@ sections:
           Culture shares how we live and why we live the way we do. It roots us
           in the past, shapes our present, and guides us into the future.
         image:
-          url: /images/Podcast - October.jpg
+          url: /images/Podcast - October-a.jpg
           altText: Placeholder image
           styles:
             self:
