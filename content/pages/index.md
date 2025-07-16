@@ -450,7 +450,7 @@ sections:
           empathy by making stories tangible.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/kevin-schmid-RV6-09J3HYU-unsplash.jpg
           altText: Placeholder text
           styles:
             self:
