@@ -424,7 +424,7 @@ sections:
           knowledge, and helps us shape a better, more informed future.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/BARNSummerYouth-0722-077.jpg
           altText: Placeholder text
           styles:
             self:
