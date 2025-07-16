@@ -117,7 +117,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/Bazaar-2024-14.jpg
+      url: /images/Bazaar-2024-14a.jpg
       altText: Dope design preview
       type: ImageBlock
       styles:
