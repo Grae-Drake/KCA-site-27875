@@ -577,7 +577,7 @@ sections:
         flexDirection: row-reverse
     elementId: support
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Partner Organizations
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
