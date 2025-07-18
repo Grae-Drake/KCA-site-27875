@@ -580,7 +580,7 @@ sections:
     subtitle: Partner Organizations
     images:
       - type: ImageBlock
-        url: /images/BARNSummerYouth-0722-077.jpg
+        url: /images/rangle-logo.svg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
