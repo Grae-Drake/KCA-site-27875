@@ -26,7 +26,7 @@ sections:
     badge:
       type: Badge
       label: >-
-        Next meeting: Friday July 25th at noon in Bremerton. Venue TBD, email
+        Next meeting: Friday July 25th at noon at kitsap history museum , email
         grae@kitsapculturalaccess.org for details
       color: text-primary
       styles:
@@ -556,8 +556,11 @@ sections:
       *   Serve on KCA's program committee to solidify plan details
 
 
-      Reach by email to <board@kitsapculturalaccess.org> for more information or
-      to get involved.
+      To learn more, join our next meeting at 12 noon on Friday, July 25th at
+      the [Kitsap History
+      Museum](https://www.google.com/maps/place/Kitsap+History+Museum/@47.5659432,-122.6263235,17z/data=!4m14!1m7!3m6!1s0x54903778f3588c09:0x4dc5a708d6b10e3d!2sKitsap+History+Museum!8m2!3d47.5659432!4d-122.6263235!16s%2Fg%2F1w6652vr!3m5!1s0x54903778f3588c09:0x4dc5a708d6b10e3d!8m2!3d47.5659432!4d-122.6263235!16s%2Fg%2F1w6652vr?entry=ttu\&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D)
+      in Bremerton. Reach by email to <board@kitsapculturalaccess.org> for more
+      information or to get involved.
     actions: []
     media:
       type: ImageBlock
@@ -572,6 +575,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+    elementId: support
 seo:
   metaTitle: Kitsap Cultural Access
   metaDescription: Public access to cultural institutions in Kitsap County.
