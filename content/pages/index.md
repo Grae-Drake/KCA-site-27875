@@ -27,7 +27,7 @@ sections:
       type: Badge
       label: >-
         Next meeting: Friday July 25th at noon at kitsap history museum , email
-        grae@kitsapculturalaccess.org for details
+        board@kitsapculturalaccess.org for details
       color: text-primary
       styles:
         self:
