@@ -11,6 +11,7 @@ topSections:
     subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/information-session-2025-7-25.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
