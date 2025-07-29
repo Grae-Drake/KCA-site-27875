@@ -13,13 +13,6 @@
             "url": "/",
             "icon": "facebook",
             "elementId": ""
-        },
-        {
-            "type": "Social",
-            "altText": "Instagram link",
-            "url": "/",
-            "icon": "instagram",
-            "elementId": ""
         }
     ],
     "legalLinks": [],
