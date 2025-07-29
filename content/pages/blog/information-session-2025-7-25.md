@@ -10,9 +10,9 @@ excerpt: >-
   cultural organizations, and strengthen the local economy.
 isFeatured: true
 seo:
-  metaTitle: KCA Information Session Recap
-  metaDescription: Kitsap Cultural Access
-  socialImage: /images/KCA_logo.png
+  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark
 styles:
@@ -22,15 +22,15 @@ type: PostLayout
 ---
 Last Friday, about 30 leaders from cultural organizations across Kitsap County gathered at Kitsap History Museum to discuss the possibility of a county-wide “cultural access program”: a coordinated funding opportunity to create cultural experiences (arts, heritage, and science) for the public, particularly county youth, support our cultural organizations, and strengthen the local economy. Kitsap Cultural Access (KCA) is a recently formed nonprofit organization with the mission to create, implement, and support a cultural access program for Kitsap County.
 
-## What is a cultural access program?
+### What is a cultural access program?
 
 Cultural organizations directly benefit the public through their educational efforts, publicly accessible facilities, and other public programming. Washington’s legislature [recognizes these public benefits](https://app.leg.wa.gov/RCW/default.aspx?cite=36.160.010) and recently created tools to support cultural organizations that serve the public. Based on Denver’s overwhelmingly popular [Scientific and Cultural Facilities District](https://scfd.org/), Washington allows counties to develop and support their own locally-tailored “cultural access programs” to fund this vital work.
 
-## How is it funded?
+### How is it funded?
 
 Like the Denver SCFD, which has been continuously re-authorized by voters since 1988, Washington’s cultural access programs are funded through a one-tenth of one percent sales tax. That’s one penny for every ten dollars. Both visitors and residents would contribute to cultural access funding. In King County, which recently adopted a cultural access program, the average annual cost was less than $40 per household. KCA is conducting research now to determine the cost to Kitsap families. Initial estimates from Inspire Washington are even lower than the King County amount.
 
-## What is the impact?
+### What is the impact?
 
 Based on 2024 numbers, a Kitsap County cultural access program would provide about $7 million dollars per year to support public access to cultural resources. Through a competitive grant process, this would support existing programs, create opportunities for new programs and organizations, and provide stable funding in our increasingly uncertain environment.
 
@@ -46,15 +46,15 @@ Tacoma’s cultural access program, “[Tacoma Creates](https://www.tacomacreate
 
 King County, San Juan County, Olympia, and Vancouver have recently adopted cultural access programs, and several other Washington counties & cities are currently considering their own.
 
-## How is the program administered?
+### How is the program administered?
 
 That’s up to our county to decide. The ordinance creating our cultural access program will appoint an administrator. State law allows the county to administer the program, to contract with ArtsWA (the Washington State Arts Commission), or to delegate administration to another entity. KCA is working hard to identify the best options for effectively and efficiently administering Kitsap’s program.
 
-## How is the program created?
+### How is the program created?
 
 In 2023 Washington authorized cities & counties to create cultural access programs by ordinance (“councilmanic”) to encourage and simplify their creation. They can also be created by popular vote. King County’s cultural access program, “[Doors Open](https://www.4culture.org/doors-open/doors-open-programs/)”, was created councilmanically last year. Our plan at KCA is to follow their example and promote a plan for the Kitsap County Commissioners to adopt by ordinance. A public campaign and vote is also an option, but the costs are beyond the budget of our volunteer organization and would significantly delay the creation of the program. While a delay may seem inconsequential, each month that delay translates to over $500,000 of lost funding for nonprofits, and over $10 million of lost economic impact for our local economy. 
 
-## What programs and entities are eligible for funding?
+### What programs and entities are eligible for funding?
 
 Eligible programs must provide the public benefits identified by the program. Washington State’s cultural access programs benefit non-profit arts, heritage, and science organizations offering public programs.
 
@@ -72,7 +72,7 @@ These foundations were created to provide exactly this kind of indirect support.
 
 It is common for small or startup cultural organizations to operate as a “fiscally sponsored” program of a 501(c)(3) nonprofit before they have received 501(c)(3) status from the IRS. Fiscally sponsored programs are eligible.
 
-## What are the program’s priorities and goals?
+### What are the program’s priorities and goals?
 
 Kitsap’s program must identify the public benefits it will promote. The specifics are up to our county to decide. KCA is conducting public outreach to understand which public benefits are most important to Kitsap residents. Some of the priorities we’ve identified so far include:
 
@@ -94,7 +94,7 @@ Kitsap’s program must identify the public benefits it will promote. The specif
 
 Informed by public feedback and stakeholder conversations, KCA will develop an initial draft for consideration by the county commissioners.
 
-## What’s next?
+### What’s next?
 
 KCA’s mission is to create, implement, and support a cultural access program for Kitsap County. Our goal is for the County to create a cultural access program before the end of 2026. We’re a new volunteer organization, and we’re gathering support.  We’re looking for:
 
