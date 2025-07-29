@@ -24,7 +24,6 @@ styles:
   self:
     flexDirection: row
 type: PostLayout
-author: content/data/person1.json
 ---
 Last Friday, about 30 leaders from cultural organizations across Kitsap County gathered at Kitsap History Museum to discuss the possibility of a county-wide “cultural access program”: a coordinated funding opportunity to create cultural experiences (arts, heritage, and science) for the public, particularly county youth, support our cultural organizations, and strengthen the local economy. Kitsap Cultural Access (KCA) is a recently formed nonprofit organization with the mission to create, implement, and support a cultural access program for Kitsap County.
 
