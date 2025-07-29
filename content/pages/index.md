@@ -536,8 +536,8 @@ sections:
         flexDirection: row-reverse
     elementId: support
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Kitsap Cultural Access
+  metaDescription: Public access to cultural institutions in Kitsap County.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
