@@ -8,7 +8,7 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts: []
     showThumbnail: true
     showExcerpt: true
