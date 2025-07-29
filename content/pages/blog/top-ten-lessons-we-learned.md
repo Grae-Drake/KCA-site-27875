@@ -1,5 +1,5 @@
 ---
-title: 'KCA Information Meeting Recap - Friday July 25, 2025'
+title: 'KCA Information Session Recap - Friday July 25, 2025'
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
