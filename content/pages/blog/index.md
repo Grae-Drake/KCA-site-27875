@@ -31,11 +31,10 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Blog - Kitsap Cultural Access
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+    Updates and articles from Kitsap Cultural Access.
+  socialImage: /images/KCA_logo.png
   type: Seo
 type: PostFeedLayout
 bottomSections: []
