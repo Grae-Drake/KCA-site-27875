@@ -1,16 +1,16 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: 8
-enableSearch: true
+numOfPostsPerPage: 0
+enableSearch: false
 topSections:
   - title:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/information-session-2025-7-25.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -43,10 +43,10 @@ postFeed:
   type: PagedPostsSection
   title: null
   subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
+  showThumbnail: false
+  showExcerpt: false
+  showDate: false
+  showAuthor: false
   actions: []
   elementId: null
   variant: three-col-grid
