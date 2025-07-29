@@ -1,8 +1,6 @@
-# Content Ops Starter
+# Kitsap Cultural Access Website
 
-![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
-
-Netlify starter that's made for customization with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+Based on the Content Ops Starter template from Netlify. See below for template and Netlify documentation
 
 **⚡ View demo:** [https://content-ops-starter.netlify.app/](https://content-ops-starter.netlify.app/)
 
