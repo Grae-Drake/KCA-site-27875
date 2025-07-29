@@ -44,7 +44,7 @@
             "type": "Link",
             "label": "Support",
             "altText": "Support",
-            "url": "#support",
+            "url": "/#support",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
