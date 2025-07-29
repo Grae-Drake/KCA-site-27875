@@ -3,9 +3,11 @@ title: 'KCA Information Session Recap - Friday July 25, 2025'
 slug: top-ten-lessons-we-learned
 date: '2025-07-29'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Last Friday, about 30 leaders from cultural organizations across Kitsap County
+  gathered at Kitsap History Museum to discuss the possibility of a county-wide
+  “cultural access program”: a coordinated funding opportunity to create
+  cultural experiences for the public, particularly county youth, support our
+  cultural organizations, and strengthen the local economy.
 isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
