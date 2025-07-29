@@ -1,6 +1,6 @@
 ---
 title: 'KCA Information Session Recap - Friday July 25, 2025'
-slug: top-ten-lessons-we-learned
+slug: information-session-2025-7-25
 date: '2025-07-29'
 excerpt: >-
   Last Friday, about 30 leaders from cultural organizations across Kitsap County
