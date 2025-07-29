@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "About",
-            "url": "#about",
+            "url": "/#about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -23,7 +23,7 @@
         {
             "label": "Established Plans",
             "altText": "Established Plans",
-            "url": "#established_plans",
+            "url": "/#established_plans",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Impact",
             "altText": "Impact",
-            "url": "#impact",
+            "url": "/#impact",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -44,7 +44,18 @@
             "type": "Link",
             "label": "Support",
             "altText": "Support",
-            "url": "#support",
+            "url": "/#support",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Updates",
+            "altText": "",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
