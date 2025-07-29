@@ -44,7 +44,7 @@ postFeed:
   title: null
   subtitle: null
   showThumbnail: false
-  showExcerpt: true
+  showExcerpt: false
   showDate: true
   showAuthor: true
   actions: []
