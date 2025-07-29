@@ -3,7 +3,7 @@
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:board@kitsapculturalaccess.org",
             "icon": "mail",
             "type": "Social"
         },
