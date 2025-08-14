@@ -515,11 +515,8 @@ sections:
       *   Serve on KCA's program committee to solidify plan details
 
 
-      To learn more, [join our next
-      meeting](https://www.eventbrite.com/e/kitsap-cultural-access-info-session-tickets-1497783553929)
-      at 12 noon on Friday, July 25th at the Kitsap History Museum in Bremerton.
       Reach out by email to <board@kitsapculturalaccess.org> for more
-      information or to get involved.
+      information, to hear about upcoming events, or to get involved.
     actions: []
     media:
       type: ImageBlock
