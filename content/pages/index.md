@@ -10,14 +10,14 @@ sections:
     subtitle: Public access to local culture
     text: >
       Kitsap Cultural Access is a community initiative to increase access to
-      arts, culture, heritage, and science across Kitsap County, particularly
-      for  youth.
+      culture, including arts, heritage, and science programs across Kitsap
+      County, particularly for youth.
 
 
       Our goals are to:
 
 
-      *   Support public programs in arts, culture, heritage, and science,
+      *   Support public programs in arts, heritage, and science,
 
 
       *   Increase access and remove barriers to these programs, particularly
