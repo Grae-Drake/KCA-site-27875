@@ -244,9 +244,9 @@ sections:
         title: Kitsap?
         subtitle: ''
         text: >
-          If successful, a cultural access plan would expand public access to
-          cultural institutions and experiences in Kitsap county, particularly
-          for youth.
+          ***Could Kitsap County be next? ***If successful, a cultural access
+          plan would expand public access to cultural institutions and
+          experiences in Kitsap county, particularly for youth.
         image:
           type: ImageBlock
           url: /images/KCA_logo.png
